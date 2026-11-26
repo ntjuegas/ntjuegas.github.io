@@ -1,0 +1,35 @@
+{
+  "tienda": {
+    "nombre": "NT Juegos",
+    "version": 5,
+    "apk": "descargas/NTJuegos.apk",
+    "paquete": "rd.juegard.app"
+  },
+  "juegos": [
+    {
+      "id": "daleconchord",
+      "nombre": "Dale Concho RD",
+      "paquete": "com.daleconcho.juego",
+      "version": 34,
+      "version_texto": "Versión 0.34",
+      "tamano": "118 MB",
+      "estado": "listo",
+      "imagen": "img/daleconcho.jpg",
+      "descripcion": "El juego del motoconcho dominicano. Manejas tu moto por pueblos, avenidas y caminos de tierra; la gente te vocea «¡Motoconcho!», los llevas a donde van y cobras tu pasaje.",
+      "apk": "https://github.com/rdayntgames/rdayntgames.github.io/releases/download/juegos/DaleConchoRD-0.34.apk",
+      "web": "jugar/dale-concho-rd/?v=3"
+    },
+    {
+      "id": "ntcityrd",
+      "nombre": "NT City RD",
+      "paquete": "rd.ntcity.juego",
+      "version": 0,
+      "version_texto": "En desarrollo",
+      "tamano": "",
+      "estado": "pronto",
+      "imagen": "img/ntcityrd.jpg",
+      "descripcion": "Mundo abierto dominicano: empieza en Villa Bisonó (Navarrete) y va creciendo por toda la República Dominicana. Pasola, misiones, barrios reales y mucho más.",
+      "apk": ""
+    }
+  ]
+}
